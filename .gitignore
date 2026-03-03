@@ -1,0 +1,9 @@
+# Ignore system files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignore XAMPP cache / temp
+/tmp/
